@@ -2,3 +2,6 @@ langchain
 chromadb
 sentence-transformers
 transformers
+
+#Install them:
+#pip install -r requirements.txt
