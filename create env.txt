@@ -1,0 +1,3 @@
+mkdir rag-chatbot
+cd rag-chatbot
+python -m venv venv
