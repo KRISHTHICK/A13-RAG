@@ -1,0 +1,3 @@
+Python is a programming language used for web, data science, and AI.
+Venv is used to isolate project environments.
+LangChain helps build AI apps with RAG.
