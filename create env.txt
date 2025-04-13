@@ -1,3 +1,7 @@
+#1️⃣ Create a folder & virtual environment
 mkdir rag-chatbot
 cd rag-chatbot
 python -m venv venv
+
+#2️⃣ Activate the environment
+venv\Scripts\activate
