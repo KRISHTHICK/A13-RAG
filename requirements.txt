@@ -5,3 +5,7 @@ transformers
 
 #Install them:
 #pip install -r requirements.txt
+
+# Now Run It
+#python chatbot.py
+
